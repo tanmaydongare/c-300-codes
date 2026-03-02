@@ -7,7 +7,7 @@ class Sample
         get{return arr[i];}
         set{arr[i]=value;}
     }
-}
+}  
 class Program
 {
     static void Main()
