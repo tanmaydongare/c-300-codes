@@ -1,4 +1,4 @@
-using System A2;
+using System ;
 class Program
 {
     static void Main()
